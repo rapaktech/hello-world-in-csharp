@@ -1,0 +1,16 @@
+C:\Users\Jim Ezesinachi\Code\Hello_World\bin\Debug\net5.0\Hello_World.exe
+C:\Users\Jim Ezesinachi\Code\Hello_World\bin\Debug\net5.0\Hello_World.deps.json
+C:\Users\Jim Ezesinachi\Code\Hello_World\bin\Debug\net5.0\Hello_World.runtimeconfig.json
+C:\Users\Jim Ezesinachi\Code\Hello_World\bin\Debug\net5.0\Hello_World.runtimeconfig.dev.json
+C:\Users\Jim Ezesinachi\Code\Hello_World\bin\Debug\net5.0\Hello_World.dll
+C:\Users\Jim Ezesinachi\Code\Hello_World\bin\Debug\net5.0\ref\Hello_World.dll
+C:\Users\Jim Ezesinachi\Code\Hello_World\bin\Debug\net5.0\Hello_World.pdb
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.csprojAssemblyReference.cache
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.AssemblyInfoInputs.cache
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.AssemblyInfo.cs
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.dll
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\ref\Hello_World.dll
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.pdb
+C:\Users\Jim Ezesinachi\Code\Hello_World\obj\Debug\net5.0\Hello_World.genruntimeconfig.cache
